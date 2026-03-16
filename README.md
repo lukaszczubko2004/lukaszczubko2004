@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lukaszczubko2004
 - 👀 I’m interested in computer sience 
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning CyberSecurity 
 - 💞️ I’m looking to collaborate on some IT projects  
 
 <!---
